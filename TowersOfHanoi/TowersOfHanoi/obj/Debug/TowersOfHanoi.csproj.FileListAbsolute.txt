@@ -1,0 +1,6 @@
+O:\CIS237\TowersOfHanoi\TowersOfHanoi\TowersOfHanoi\bin\Debug\TowersOfHanoi.exe.config
+O:\CIS237\TowersOfHanoi\TowersOfHanoi\TowersOfHanoi\bin\Debug\TowersOfHanoi.exe
+O:\CIS237\TowersOfHanoi\TowersOfHanoi\TowersOfHanoi\bin\Debug\TowersOfHanoi.pdb
+O:\CIS237\TowersOfHanoi\TowersOfHanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.csprojResolveAssemblyReference.cache
+O:\CIS237\TowersOfHanoi\TowersOfHanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.exe
+O:\CIS237\TowersOfHanoi\TowersOfHanoi\TowersOfHanoi\obj\Debug\TowersOfHanoi.pdb
